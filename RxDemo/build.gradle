@@ -10,10 +10,10 @@ android {
 
     signingConfigs {
         debug {
-            storeFile file('/home/tamsiree/Documents/TamDocuments/WorkSpace/Android/TamKey.jks')
-            storePassword 'Ls547817'
-            keyAlias = 'TamKey'
-            keyPassword 'Ls547817'
+            storeFile file('/Users/shukaiwu/AndroidJKS/Untitled.jks')
+            storePassword '123456'
+            keyAlias = 'key0'
+            keyPassword '123456'
         }
     }
 
